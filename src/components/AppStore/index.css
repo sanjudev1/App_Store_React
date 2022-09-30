@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.list {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+}
+.appContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.bg-container {
+  text-align: center;
+  font-family: 'Bree serif';
+}
+.input {
+  border: none;
+}
+.search {
+  width: 20px;
+  height: 20px;
+}
+.inputBar {
+  border: black solid 2px;
+  padding: 5px;
+  border-radius: 5px;
+}

@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.btn-tb {
+  border: none;
+  background-color: none;
+}
+.active-tab-btn {
+  border-bottom: solid 1px #2563eb;
+  color: #2563eb;
+}
+.tabItem {
+  max-width: 100px;
+  justify-content: space-between;
+  display: flex;
+  width: 90%;
+}
+button:hover {
+  background-color: green;
+  cursor: pointer;
+}
